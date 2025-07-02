@@ -1,6 +1,6 @@
 Firebase Contact App
 
-A modern contact management application built. Add, view, search, and manage contacts.
+A modern contact application built. Add, view, search, and manage contacts.
 
 ## 🚀 Features
 - 🔍 Search contacts by name or email
